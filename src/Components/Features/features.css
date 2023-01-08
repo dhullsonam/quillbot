@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    font-size: 2rem;
+    font-weight: 500;
+    color: #333333;
+}
+.btnSingUp{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.signUp-button{
+    width: 300px !important;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+ }
+.sub-header{
+    background: #499557;
+    color: white;
+    padding: 0.5rem 5rem;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 25px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+
+.sub-header:hover{
+    background-color:#687b50;
+}
